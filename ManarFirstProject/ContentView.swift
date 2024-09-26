@@ -20,6 +20,7 @@ struct ContentView: View {
             
             VStack {
                 Text("Water Tracker 💦")
+                Text("hello GitHub 💦")
                 Toggle(isOn: $isOn) {
                     Text("Label")
                 }
